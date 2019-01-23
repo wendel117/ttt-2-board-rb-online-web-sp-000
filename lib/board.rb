@@ -1,7 +1,5 @@
 # Define the variable board below.
-def board(array)
+def board(board)
   board = []
   board_array = [" "," "," "," "," "," "," "," "," "]
-end
-board
 end
